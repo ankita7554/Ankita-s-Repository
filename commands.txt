@@ -1,0 +1,7 @@
+git init setting up process:Will initilize one github file with which u can play.
+git status.  //will shouw u the current chnages which are not yet pushed. //will show in red.
+git add .   //dot will add or push every file.
+git add <filename>
+git status //will come in green
+git commit -m "New File added".
+git push origin master //will push actuall files
